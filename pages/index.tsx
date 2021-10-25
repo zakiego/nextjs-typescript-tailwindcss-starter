@@ -17,12 +17,23 @@ export default function Home() {
           </a>
         </h1>
 
+        <div className="mt-5 text-2xl font-medium">
+          NextJS with TypeScript and Tailwind CSS
+        </div>
+
         <p className="mt-3 text-2xl">
           Get started by editing{" "}
           <code className="p-3 font-mono text-lg bg-gray-100 rounded-md">
             pages/index.js
           </code>
         </p>
+
+        <a
+          href="https://github.com/zakiego/nextjs-typescript-tailwindcss-starter"
+          className="text-blue-600 transition-all duration-500 border-b-2 border-transparent hover:border-b-2 hover:border-blue-600 mt-7"
+        >
+          view github repository
+        </a>
 
         <div className="flex flex-wrap items-center justify-around max-w-4xl mt-6 sm:w-full">
           <a
