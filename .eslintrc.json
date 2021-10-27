@@ -6,7 +6,6 @@
     "prettier",
     "eslint:recommended",
     "plugin:prettier/recommended",
-    "plugin:@next/next/recommended",
     "plugin:@typescript-eslint/recommended"
   ],
   "rules": {
