@@ -9,8 +9,8 @@
   },
   "dependencies": {
     "next": "^12.0.4",
-    "react": "alpha",
-    "react-dom": "alpha"
+    "react": "latest",
+    "react-dom": "latest"
   },
   "devDependencies": {
     "@next/eslint-plugin-next": "^12.0.4",
