@@ -7,6 +7,10 @@ export default function Home() {
       <Head>
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta
+          name="google-site-verification"
+          content="r3y8BHTxsjVGrw_qSHXuYgXDTQcnx78Ija47b3TWozw"
+        />
       </Head>
 
       <main className="flex flex-col items-center justify-center flex-1 w-full px-20 text-center">
