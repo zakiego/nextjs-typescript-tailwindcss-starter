@@ -1,14 +1,6 @@
 # NextJS with TypeScript and Tailwind CSS
 
-This example shows how to use [TypeScript](https://nextjs.org/docs/basic-features/typescript) andd [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js.
-
-It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-mode) for Tailwind CSS.
-
-## Preview
-
-Preview the example live on [StackBlitz](http://stackblitz.com/):
-
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/zakiego/nextjs-typescript-tailwindcss-starter)
+This example shows how to use [TypeScript](https://nextjs.org/docs/basic-features/typescript) andd [Tailwind CSS](https://tailwindcss.com/) with Next.js.
 
 ## Deploy your own
 
