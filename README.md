@@ -2,6 +2,12 @@
 
 This example shows how to use [TypeScript](https://nextjs.org/docs/basic-features/typescript) andd [Tailwind CSS](https://tailwindcss.com/) with Next.js.
 
+Features:
+
+- Jest
+- Prettier
+- Eslint
+
 ## Deploy your own
 
 Deploy the example using [Vercel](https://vercel.com):
