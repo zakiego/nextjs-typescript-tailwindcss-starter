@@ -30,7 +30,7 @@ export default function Home() {
         </h1>
 
         <div className="mt-4 text-base opacity-40 md:text-2xl">
-          With TypeSciprt, Jest, Prettier, and ESLint
+          With TypeScript, Jest, Prettier, and ESLint
         </div>
 
         <a
